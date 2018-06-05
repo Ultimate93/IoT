@@ -1,0 +1,8 @@
+Connections of the MFRC-522 NFC/RFID sensor with Arduino:
+SDA to Arduino pin  10
+SCK to Arduino pin 13
+MOSI to Arduino pin 11
+MISO to Arduino pin 12
+RST to Arduino pin 9
+
+

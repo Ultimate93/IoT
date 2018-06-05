@@ -1,0 +1,44 @@
+Step 1) Update mosquitto repository
+
+run bash command: sudo apt-add-repository ppa:mosquitto-dev/mosquitto-ppa
+
+(if above apt-add-repository command does not work, you might need install software-properties-common Package by runing following command first:
+
+sudo apt-get install software-properties-common python-software-properties  )
+
+Step 2)install mosquitto
+run bash command: wget http://repo.mosquitto.org/debian/mosquitto-repo.gpg.key
+
+sudo apt-key add mosquitto-repo.gpg.key
+
+cd /etc/apt/sources.list.d/
+
+sudo wget http://repo.mosquitto.org/debian/mosquitto-jessie.list
+
+sudo apt-get update
+
+sudo apt-get install mosquitto
+
+Step 3)start mosquitto
+
+run bash command: sudo service mosquitto start
+
+Step 4) check mosquitto running status
+
+You should see mosquitto start/running , process xxxx
+
+run bash command: sudo service mosquitto status
+
+Step 5)Check mosquitto port:
+run bash command:  netstat -anplt | grep 1883
+
+you should see 1883 port is listened by mosquitto process
+
+Step 6) test MQTT broker
+First,  you need open a new terminal window and install mosquito client by running following commands:
+sudo apt-get install mosquitto-clients
+
+Second, issue the given below command to subscribe the topic “mqtt”:
+sudo mosquitto_sub -h localhost -t "raspi" -v
+Last, Open another terminal and issue the given below command to publish message to the topic "mqtt"
+sudo mosquitto_pub -h localhost -t "raspi" -m "This is my first MQTT message"

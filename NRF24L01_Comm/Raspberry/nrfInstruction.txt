@@ -1,0 +1,21 @@
+1. Enable SPI in raspberry pi configuration
+
+2. download library 
+->cd..	
+->cd Desktop/
+->mkdir NRF24L01
+->cd NRF24L01
+->git clone https://github.com/Blavery/lib_nrf24
+->ls
+->cd libnrf24/
+->ls	
+->cp lib_nrf24.py ~/Desktop/NRF24L01/
+->cd
+->ls
+
+3. create python file in NRF24L01 folder
+copy paste code from file 
+
+4. Open Arduino IDE
+install library RF24 by TMRh20 Version 1.1.6
+copy paste code from file

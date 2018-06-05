@@ -1,0 +1,4 @@
+MQ2     Arduino Uno  Arduino Mega
+GND         GND             GND
+VCC         3.3V            3.3 v
+DATA        A0              A0   

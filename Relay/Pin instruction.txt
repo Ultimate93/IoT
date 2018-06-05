@@ -1,0 +1,8 @@
+Relay      230v supply (neutral connect to PIN)
+NC         Supply to bulb
+COM        Live supply
+
+
+Relay       LED or Buzzer(connect one pin to ground)
+NC          Supply to LED (VCC pin of LED)
+COM         5V supply from arduino

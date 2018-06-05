@@ -1,0 +1,8 @@
+Memory card      Arduino Uno  Arduino Mega
+module
+GND                GND             GND
+VCC                5V              5v
+CS                 4               53
+MISO               D12             51
+MOSI               D11             50
+SCK                D13             52            

@@ -1,0 +1,17 @@
+In this article, we will develop a PHP client for subscribing and publishing messages for MQTT communication using Mosquitto-PHP library available here.
+
+1. Installing pecl
+$sudo apt-get install php-pear
+
+2. Install PHP developer packages
+$sudo apt-get install php5-dev
+
+3. Install Mosquitto-PHP library
+sudo pecl install Mosquitto-alpha
+
+4. Add extension=mosquitto.so under Dynamic Extensions of the file /etc/php5/cli/php.ini
+
+5. mosquitto_pub -h broker.mqtt-dashboard.com -t "rasLEDcontrol" -m "1"
+or
+   mosquitto_pub -h broker.mqtt-dashboard.com -t "rasLEDcontrol" -m "0"
+

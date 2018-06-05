@@ -1,0 +1,11 @@
+sudo service mosquitto start
+
+sudo service mosquitto status
+
+netstat -anplt | grep 1883
+
+mosquitto_pub -h 192.168.0.34 -t "rasLEDcontrol" -m "1"
+OR
+mosquitto_pub -h 192.168.0.34 -t "rasLEDcontrol" -m "0"
+
+192.168.0.34 is raspberry pi address

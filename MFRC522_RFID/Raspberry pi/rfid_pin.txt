@@ -1,0 +1,6 @@
+MFRC-522 NFC/RFID sensor with Raspberry:
+SDA to GPIO pin  24
+SCK to GPIO pin 23
+MOSI to GPIO pin 19
+MISO to GPIO pin 21
+RST to GPIO pin 22

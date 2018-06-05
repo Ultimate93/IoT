@@ -1,0 +1,14 @@
+NRF24L01       Uno     Mega
+[1]GND         GND     GND
+2  3.3v        3.3v    3.3v
+3  CE          9        9
+4  CSN         10       10
+5  SCK         13       52
+6  MOSI        11       51
+7  MISO        12       50
+
+
+
+Open Arduino IDE
+install library RF24 by TMRh20 Version 1.1.6
+copy paste code from file

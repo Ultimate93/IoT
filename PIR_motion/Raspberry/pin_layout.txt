@@ -1,0 +1,8 @@
+PIR    Raspberry Pi  
+GND          6             
+VCC          1            
+DATA         11  
+      
+Buzzer    Raspberry pi
+GND           9
+DATA          3

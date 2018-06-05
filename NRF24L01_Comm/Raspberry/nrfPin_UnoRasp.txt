@@ -1,0 +1,8 @@
+NRF24L01       Uno     Raspberry pi 
+[1]GND         GND        6
+2  3.3v        3.3v       1
+3  CE          9          11
+4  CSN         10         24
+5  SCK         13         23
+6  MOSI        11         19
+7  MISO        12         21
