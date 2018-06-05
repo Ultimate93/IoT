@@ -1,0 +1,41 @@
+D:\Zktech\ZKTeco Using C#\BioMatrix\BioMetrixCore\bin\Debug\BioMetrixCore.exe.config
+D:\Zktech\ZKTeco Using C#\BioMatrix\BioMetrixCore\bin\Debug\BioMetrixCore.exe
+D:\Zktech\ZKTeco Using C#\BioMatrix\BioMetrixCore\bin\Debug\BioMetrixCore.pdb
+D:\Zktech\ZKTeco Using C#\BioMatrix\BioMetrixCore\obj\Debug\BioMetrixCore.csprojResolveAssemblyReference.cache
+D:\Zktech\ZKTeco Using C#\BioMatrix\BioMetrixCore\obj\Debug\Interop.zkemkeeper.dll
+D:\Zktech\ZKTeco Using C#\BioMatrix\BioMetrixCore\obj\Debug\BioMetrixCore.csproj.ResolveComReference.cache
+D:\Zktech\ZKTeco Using C#\BioMatrix\BioMetrixCore\obj\Debug\BioMetrixCore.DataEmpty.resources
+D:\Zktech\ZKTeco Using C#\BioMatrix\BioMetrixCore\obj\Debug\BioMetrixCore.Master.resources
+D:\Zktech\ZKTeco Using C#\BioMatrix\BioMetrixCore\obj\Debug\BioMetrixCore.Properties.Resources.resources
+D:\Zktech\ZKTeco Using C#\BioMatrix\BioMetrixCore\obj\Debug\BioMetrixCore.csproj.GenerateResource.Cache
+D:\Zktech\ZKTeco Using C#\BioMatrix\BioMetrixCore\obj\Debug\BioMetrixCore.exe
+D:\Zktech\ZKTeco Using C#\BioMatrix\BioMetrixCore\obj\Debug\BioMetrixCore.pdb
+C:\Users\rashmi\Downloads\BioMetrix-master\BioMetrixCore\bin\Debug\BioMetrixCore.exe.config
+C:\Users\rashmi\Downloads\BioMetrix-master\BioMetrixCore\bin\Debug\BioMetrixCore.exe
+C:\Users\rashmi\Downloads\BioMetrix-master\BioMetrixCore\bin\Debug\BioMetrixCore.pdb
+C:\Users\rashmi\Downloads\BioMetrix-master\BioMetrixCore\obj\Debug\Interop.zkemkeeper.dll
+C:\Users\rashmi\Downloads\BioMetrix-master\BioMetrixCore\obj\Debug\BioMetrixCore.csproj.ResolveComReference.cache
+C:\Users\rashmi\Downloads\BioMetrix-master\BioMetrixCore\obj\Debug\BioMetrixCore.DataEmpty.resources
+C:\Users\rashmi\Downloads\BioMetrix-master\BioMetrixCore\obj\Debug\BioMetrixCore.Master.resources
+C:\Users\rashmi\Downloads\BioMetrix-master\BioMetrixCore\obj\Debug\BioMetrixCore.Properties.Resources.resources
+C:\Users\rashmi\Downloads\BioMetrix-master\BioMetrixCore\obj\Debug\BioMetrixCore.csproj.GenerateResource.cache
+C:\Users\rashmi\Downloads\BioMetrix-master\BioMetrixCore\obj\Debug\BioMetrixCore.csproj.CoreCompileInputs.cache
+C:\Users\rashmi\Downloads\BioMetrix-master\BioMetrixCore\obj\Debug\BioMetrixCore.exe
+C:\Users\rashmi\Downloads\BioMetrix-master\BioMetrixCore\obj\Debug\BioMetrixCore.pdb
+C:\Users\rashmi\Downloads\BioMetrix-master\BioMetrixCore\bin\Debug\MySql.Data.dll
+C:\Users\rashmi\Downloads\BioMetrix-master\BioMetrixCore\bin\Debug\MySql.Data.xml
+C:\Users\rashmi\Downloads\BioMetrix-master\BioMetrixCore\obj\Debug\BioMetrixCore.csprojResolveAssemblyReference.cache
+C:\Users\rashmi\Downloads\BioMetrix-master\BioMetrixCore\obj\Debug\BioMetrixCore.csproj.CopyComplete
+H:\NOVITU\Implementation\BioMetrix-master\BioMetrixCore\bin\Debug\BioMetrixCore.exe.config
+H:\NOVITU\Implementation\BioMetrix-master\BioMetrixCore\bin\Debug\BioMetrixCore.exe
+H:\NOVITU\Implementation\BioMetrix-master\BioMetrixCore\bin\Debug\BioMetrixCore.pdb
+H:\NOVITU\Implementation\BioMetrix-master\BioMetrixCore\obj\Debug\BioMetrixCore.csprojResolveAssemblyReference.cache
+H:\NOVITU\Implementation\BioMetrix-master\BioMetrixCore\obj\Debug\Interop.zkemkeeper.dll
+H:\NOVITU\Implementation\BioMetrix-master\BioMetrixCore\obj\Debug\BioMetrixCore.csproj.ResolveComReference.cache
+H:\NOVITU\Implementation\BioMetrix-master\BioMetrixCore\obj\Debug\BioMetrixCore.DataEmpty.resources
+H:\NOVITU\Implementation\BioMetrix-master\BioMetrixCore\obj\Debug\BioMetrixCore.Master.resources
+H:\NOVITU\Implementation\BioMetrix-master\BioMetrixCore\obj\Debug\BioMetrixCore.Properties.Resources.resources
+H:\NOVITU\Implementation\BioMetrix-master\BioMetrixCore\obj\Debug\BioMetrixCore.csproj.GenerateResource.cache
+H:\NOVITU\Implementation\BioMetrix-master\BioMetrixCore\obj\Debug\BioMetrixCore.csproj.CoreCompileInputs.cache
+H:\NOVITU\Implementation\BioMetrix-master\BioMetrixCore\obj\Debug\BioMetrixCore.exe
+H:\NOVITU\Implementation\BioMetrix-master\BioMetrixCore\obj\Debug\BioMetrixCore.pdb

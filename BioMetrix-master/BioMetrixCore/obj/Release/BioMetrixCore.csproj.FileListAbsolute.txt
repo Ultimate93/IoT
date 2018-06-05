@@ -1,0 +1,13 @@
+H:\NOVITU\Implementation\BioMetrix-master\BioMetrixCore\bin\Release\BioMetrixCore.exe.config
+H:\NOVITU\Implementation\BioMetrix-master\BioMetrixCore\bin\Release\BioMetrixCore.exe
+H:\NOVITU\Implementation\BioMetrix-master\BioMetrixCore\bin\Release\BioMetrixCore.pdb
+H:\NOVITU\Implementation\BioMetrix-master\BioMetrixCore\obj\Release\BioMetrixCore.csprojResolveAssemblyReference.cache
+H:\NOVITU\Implementation\BioMetrix-master\BioMetrixCore\obj\Release\Interop.zkemkeeper.dll
+H:\NOVITU\Implementation\BioMetrix-master\BioMetrixCore\obj\Release\BioMetrixCore.csproj.ResolveComReference.cache
+H:\NOVITU\Implementation\BioMetrix-master\BioMetrixCore\obj\Release\BioMetrixCore.DataEmpty.resources
+H:\NOVITU\Implementation\BioMetrix-master\BioMetrixCore\obj\Release\BioMetrixCore.Master.resources
+H:\NOVITU\Implementation\BioMetrix-master\BioMetrixCore\obj\Release\BioMetrixCore.Properties.Resources.resources
+H:\NOVITU\Implementation\BioMetrix-master\BioMetrixCore\obj\Release\BioMetrixCore.csproj.GenerateResource.cache
+H:\NOVITU\Implementation\BioMetrix-master\BioMetrixCore\obj\Release\BioMetrixCore.csproj.CoreCompileInputs.cache
+H:\NOVITU\Implementation\BioMetrix-master\BioMetrixCore\obj\Release\BioMetrixCore.exe
+H:\NOVITU\Implementation\BioMetrix-master\BioMetrixCore\obj\Release\BioMetrixCore.pdb
