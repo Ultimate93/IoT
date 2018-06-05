@@ -1,0 +1,4 @@
+DHT11      Raspberry 
+GND         6
+VCC         1
+DATA        11
