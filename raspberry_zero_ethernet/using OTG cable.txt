@@ -1,0 +1,13 @@
+
+Run following commands in terminal - 
+1.sudo apt-get update
+2.echo "dtoverlay=dwc2" | sudo tee -a /boot/config.txt
+3.echo "dwc2" | sudo tee -a /etc/modules
+4.echo "g_ether" | sudo tee -a /etc/modules
+5.echo -e "interface usb0 \nstatic ip_address=169.254.64.64" | sudo tee -a /etc/dhcpcd.conf
+6.sudo apt-get update
+7.sudo reboot
+
+Now plug OTG cable to USB of raspberry pi, other end of OTG cable to ethernet adapter, 
+ethernet adapter to LAN cable
+

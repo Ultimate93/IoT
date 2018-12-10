@@ -1,0 +1,26 @@
+1.Pin connection::
+
+Ethernet module        Raspberry pi zero W v1.1
+INT                    GPIO 25 (Pin 22)
+MISO                   MISO (Pin 21)        
+MOSI                   MOSI (Pin 19)
+SCLK                   SCLK (Pin 23)
+CS                     CE0 (Pin 24)
+3.3V                   GND (Pin 1)
+GND                    GND (Pin 20)
+
+2.connect LAN cable to ethernet module
+
+3.Run following commands in terminal:
+---> sudo apt-get update
+---> sudo raspi-config, go to Interfacing options,enable SPI, finish 
+---> echo "dtoverlay=enc28j60" | sudo tee -a /boot/config.txt
+---> sudo apt-get update
+
+4.sudo reboot
+
+5.In angry IP scanner software, you will see two IP address (one for WiFi connection and one for ethernet connection) for raspberry.local
+
+
+
+
